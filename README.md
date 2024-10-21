@@ -31,7 +31,6 @@ INTERESTS:
 <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/vmware-%23007CBA.svg?style=for-the-badge&logo=vmware&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -41,8 +40,6 @@ INTERESTS:
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=andregarci"></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=andregarci&show_icons=true"></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregarci&layout=compact"></p>
@@ -50,8 +47,4 @@ INTERESTS:
 <p><img src="https://metrics.lecoq.io/andregarci"></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andregarci"></p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=andregarci"></p>
 
